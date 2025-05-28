@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5hubxhh
+- 👋 Hi, I’m Shubham
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning AIML
 
